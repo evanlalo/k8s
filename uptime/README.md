@@ -1,0 +1,1 @@
+`helm upgrade my-uptime-kuma uptime-kuma/uptime-kuma --install -f values.yaml --namespace monitoring --create-namespace`

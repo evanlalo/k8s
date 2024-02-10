@@ -1,0 +1,5 @@
+# service:
+  # port: 80
+
+serviceMonitor:
+  enabled: true
